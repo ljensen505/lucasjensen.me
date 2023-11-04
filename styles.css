@@ -1,0 +1,24 @@
+body {
+  background-color: steelblue;
+  color: rgb(37, 37, 37);
+}
+
+.social-link {
+  color: rgb(37, 37, 37);
+}
+
+.social-link:hover {
+  color: rgb(70, 70, 70);
+}
+
+.social-link:active {
+  color: rgb(37, 37, 37);
+}
+
+.social-link:visited {
+  color: rgb(37, 37, 37);
+}
+
+/* #resume-link {
+  color: rgb(37, 37, 37);
+} */
